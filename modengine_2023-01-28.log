@@ -1,0 +1,11 @@
+[2023-01-28 20:04:50.971] [modengine] [info] ModEngine version 2.0.0-preview3-d673e6000e50d5c559364b6276057f6bde09accb initializing for Elden Ring
+[2023-01-28 20:04:50.971] [modengine] [info] Local settings loaded: true, Global settings loaded: true
+[2023-01-28 20:04:50.971] [modengine] [info] Main thread ID: 24612
+[2023-01-28 20:04:50.973] [modengine] [info] Enabling extension base
+[2023-01-28 20:04:50.973] [modengine] [info] Enabled extension base
+[2023-01-28 20:04:50.973] [modengine] [info] Enabling extension mod_loader
+[2023-01-28 20:04:50.973] [modengine] [info] Installing mod location mod
+[2023-01-28 20:04:50.976] [modengine] [info] Resolved mod path to C:\Users\trafa\Desktop\ModEngine-2.0.0-preview4-win64\mod
+[2023-01-28 20:04:50.976] [modengine] [info] Enabled extension mod_loader
+[2023-01-28 20:04:51.413] [modengine] [info] Applied 3 hooks
+[2023-01-28 20:04:51.415] [modengine] [info] Starting worker thread

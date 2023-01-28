@@ -1,0 +1,15 @@
+# DO NOT MODIFY THIS FILE!
+# AUTO-GENERATED
+# CONTENTS WILL BE AUTOMATICALLY OVERWRITTEN
+
+# Produced by Elden Ring Randomizer v0.6.1
+# <hash>e8926d5124eb1b89c055620d2602b17e</hash>
+
+[modengine]
+debug = false
+[extension.mod_loader]
+enabled = true
+loose_params = false
+mods = [
+    { enabled = true, name = "randomizer", path = "C:\\Users\\trafa\\Desktop\\ModEngine-2.0.0-preview4-win64\\randomizer" },
+]
